@@ -84,34 +84,40 @@ export const stats = {
  * website automatically uses the video's own YouTube thumbnail.
  * ------------------------------------------------------------
  */
-export const longFormProjects = [
+export const longFormProjects: {
+  title: string;
+  description: string;
+  youtubeUrl: string;
+  thumbnail: string;
+  size: "normal" | "wide";
+}[] = [
   {
     title: "The Man & The Mission Behind Corsair",
     description: "Full interview with Jussi Veikko Saloranta.",
     youtubeUrl: "https://youtu.be/19SJihALE5c",
     thumbnail: "",
-    size: "normal" as const,
+    size: "normal",
   },
   {
     title: "Long-Form Project",
     description: "",
     youtubeUrl: "https://youtu.be/U0nuJmDXp60",
     thumbnail: "",
-    size: "normal" as const,
+    size: "normal",
   },
   {
     title: "Long-Form Project",
     description: "",
     youtubeUrl: "https://www.youtube.com/watch?v=hkiz6NA-jOM&t=100s",
     thumbnail: "",
-    size: "normal" as const,
+    size: "normal",
   },
   {
     title: "Long-Form Project",
     description: "",
     youtubeUrl: "https://youtu.be/i8jcP2A0oSg",
     thumbnail: "",
-    size: "normal" as const,
+    size: "normal",
   },
 ];
 
