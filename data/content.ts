@@ -45,8 +45,8 @@ export const hero = {
   primaryButton: { label: "Start a Project", href: "#contact" },
   secondaryButton: { label: "Contact Me", href: "#contact" },
   // This is your main photo. Replace the file at
-  // /public/images/profile/profile.jpg to change it.
-  photo: "/images/profile/profile.jpg",
+  // /public/images/profile/profile-hero.png to change it.
+  photo: "/images/profile/profile-hero.png",
   photoAlt: "Alif Pathan portrait",
 };
 
@@ -201,6 +201,10 @@ export const drives = {
     "**One of the earliest lessons I understood in life is that the biggest risk is not taking one.** That belief pushed me to do things differently — to question the safe path and choose growth over comfort. I try to live by that mindset every day.",
     'What sets me apart isn\'t just what I do, but how I think. I genuinely believe that anything is possible. For me, the only real question has never been "Is it possible?" — it\'s always been "How can it be done?"',
     "That belief has shaped my entire journey. Every step so far — every project, every challenge, every win — has come from that mindset. And I'm not done. I want to go further, build more, create better, and keep pushing beyond what feels normal or expected.",
+    "I believe in taking action before having all the answers, learning from every failure, and surrounding myself with people who challenge me to become better. I'm not interested in simply following what has already been done. I want to build things that matter, create opportunities, and leave a mark that lasts.",
+    "There will always be uncertainty, setbacks, and people who tell you something can't be done. I've learned to see those moments as part of the process rather than reasons to stop.",
+    "I'm still learning. Still building. Still figuring things out.",
+    "But one thing hasn't changed: I refuse to settle for ordinary when I know there's more I can become.",
     "This is what has brought me here.\nAnd this is only the beginning.",
     "**That's my two cents.**",
   ],
