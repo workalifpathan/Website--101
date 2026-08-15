@@ -45,8 +45,8 @@ export const hero = {
   primaryButton: { label: "Start a Project", href: "#contact" },
   secondaryButton: { label: "Contact Me", href: "#contact" },
   // This is your main photo. Replace the file at
-  // /public/images/profile/profile-hero.png to change it.
-  photo: "/images/profile/profile-hero.png",
+  // /public/images/profile/profile.jpg to change it.
+  photo: "/images/profile/profile.jpg",
   photoAlt: "Alif Pathan portrait",
 };
 
