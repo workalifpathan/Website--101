@@ -54,7 +54,7 @@ export const socialLinks = [
   { platform: "instagram", url: "https://www.instagram.com/alifpathan12/" },
   { platform: "facebook", url: "https://www.facebook.com/alifpathan0" },
   { platform: "tiktok", url: "https://www.tiktok.com/@alifpathan123" },
-  { platform: "youtube", url: "https://www.youtube.com/@AlifPathan123." },
+  { platform: "youtube", url: "https://www.youtube.com/@AlifPathan123" },
 ];
 
 export const stats = {
